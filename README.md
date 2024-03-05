@@ -1,4 +1,4 @@
-# Task 2. Computer vision. Sentinel-2 image matching
+# Sentinel-2 image matching
 
 - Link to task data in Google Drive: https://drive.google.com/drive/folders/1YQX_7o9mRmvRewT-9NPjFEDCLL5slzZT?usp=sharing
 
