@@ -175,11 +175,6 @@ class BrightnessEnhancement(object):
     - factor (float): Enhancement factor for brightness adjustment.
     """
     def __init__(self, factor):
-         """
-        Initializes the BrightnessEnhancement transformation.
-
-        - factor: Enhancement factor for brightness adjustment.
-        """
         self.factor = factor
 
     def __call__(self, img):
